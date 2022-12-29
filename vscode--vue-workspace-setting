@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../tinydash"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "agami_bullion",
+		// "liveServer.settings.root": "/client",
+		"liveServer.settings.root": "/store-client",
+		// "liveServer.settings.ignoreFiles": [
+		// 	".vscode/**",
+		// ],
+		"liveServer.settings.ignoreFiles":["**"],
+		"editor.foldingStrategy": "indentation",
+		"emmet.includeLanguages": {
+			"javascript": "javascriptreact"
+		 }
+	}
+}
